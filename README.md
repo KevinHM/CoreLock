@@ -2,14 +2,77 @@
 
     Charlin出框架的目标：简单、易用、实用、高度封装、绝对解耦！
 
-#### CoreLock
+<br /><br />
+
+
+框架推荐：CoreModel系列 SERIES
+===============
+
+#### 重磅推出：Swift版的MJExtension，运行时、反射与一键字典模型互转
+文档：https://github.com/nsdictionary/CFRuntime
+
+第一季：CoreFMDB
+https://github.com/nsdictionary/CoreFMDB
+
+第二季：CoreArchive
+https://github.com/nsdictionary/CoreArchive
+
+第三季：CoreClass
+https://github.com/nsdictionary/CoreClass
+
+第四季：CoreModel模型动态缓存、列表模型动态缓存。<br />
+暂未开源！请加群归队，获取最新信息（群信息在下面）！！！请支持第三季！
+
+第五季：动态缓存list终结者。<br />
+暂未开源！请加群归队，获取最新信息（群信息在下面）！！！请支持第三季！
+
+<br /><br /><br />
+本框架是隶属于MJExtension续作，我给这系列框架取了一个整体上的名字叫做：CoreModel。
+CoreClass是系列第三季，共有5季，还有最后两季！连载中，请加群关注最新动态！<br />
+
+
+<br /><br />
+
+
+组织信息 Charlin Feng：
+===============
+<br />
+#### 特别群：请西部省市朋友实名加入组织。其他地区朋友请添加2-4群：谢谢。
+<br />
+【西部区域】西部大开发群号： 473185026  -追赶北上广！为振兴西部IT而努力！<br />
+热烈欢迎中国西部各省市的从事iOS开发朋友实名进群！本群为是聚集西部零散开发者，大家齐心协力共进退！ <br /><br />
+
+【全国可加】四群： 347446259<br />
+新开，可加！欢迎全国朋友加入组织 <br /><br />
+
+【全国可加】三群： 474377358<br />
+新开，可加！欢迎全国朋友加入组织 <br /><br />
+
+【全国可加】二群： 369870753<br />
+**WORNING: 已爆满，加不上了**<br /><br />
+
+【全国可加】一群：163865401<br />
+**WORNING: 已爆满，加不上了**<br /><br />
+
+<br /><br />
+
+CoreLock
+===============
 高仿支付宝解锁！<br />
 
     注：本框架是高仿支付宝，并集成了所有功能，并非一个简单的解锁界面展示。个人制作用时1周多，打造解锁终结者框架。
 
 
 
-#### 框架特性：<br />
+<br /><br />
+示例截图
+===============
+![image](./CoreLock/core.gif)<br />
+<br /><br />
+
+
+框架特性：
+===============
 >.ios版本兼容ios 7.0及以上.<br />
 >.扁平化设计，全部使用QuartzCore引擎绘制，没有使用任何图片素材<br />
 >.完全解耦，不需要继承，不需要定义成员属性，类方法直接搞定一切。<br />
@@ -20,7 +83,8 @@
 >.完善的错误处理机制。<br />
 
 <br /><br />
-#### Charlin想说：<br />
+Charlin想说：
+===============
 此版本是全部的QuartzCore绘制，整个框架使用了几乎所有的QuartzCore技术，如果你有兴趣，可以看下源代码，
 算是一个比较不错的QuartzCore实战教程。
 
@@ -107,31 +171,7 @@
 
   
   <br /><br />
-#### 示例截图
-![image](./CoreLock/1.png)<br />
-<br /><br />
-  
+
   
 
 
-<br /><br />
-
------
-    CoreLock 高仿支付宝解锁！
------
-
-<br /><br />
-
-
-
-
-#### 版权说明 RIGHTS <br />
-作品说明：本框架由iOS开发攻城狮Charlin制作。<br />
-作品时间： 2015.04.26 18:07<br />
-#### 关于Chariln INTRODUCE <br />
-作者简介：Charlin-四川成都华西都市报旗下华西都市网络有限公司技术部iOS工程师！<br /><br />
-
-
-#### 联系方式 CONTACT <br />
-Q    Q：1761904945（请注明缘由）<br />
-Mail：1761904945@qq.com<br />
